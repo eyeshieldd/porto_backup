@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.59bb87f6.chunk.css",
+    "main.js": "/portofolio/static/js/main.55e54974.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.55e54974.chunk.js.map",
+    "runtime-main.js": "/portofolio/static/js/runtime-main.45e46e2f.js",
+    "runtime-main.js.map": "/portofolio/static/js/runtime-main.45e46e2f.js.map",
+    "static/js/2.10facdb1.chunk.js": "/portofolio/static/js/2.10facdb1.chunk.js",
+    "static/js/2.10facdb1.chunk.js.map": "/portofolio/static/js/2.10facdb1.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/portofolio/static/css/3.00373544.chunk.css",
+    "static/js/3.100df193.chunk.js": "/portofolio/static/js/3.100df193.chunk.js",
+    "static/js/3.100df193.chunk.js.map": "/portofolio/static/js/3.100df193.chunk.js.map",
+    "index.html": "/portofolio/index.html",
+    "precache-manifest.e5916b41a073c86b944e89a9f53b835b.js": "/portofolio/precache-manifest.e5916b41a073c86b944e89a9f53b835b.js",
+    "service-worker.js": "/portofolio/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/portofolio/static/css/3.00373544.chunk.css.map",
+    "static/css/main.59bb87f6.chunk.css.map": "/portofolio/static/css/main.59bb87f6.chunk.css.map",
+    "static/media/index.css": "/portofolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/amikom.png": "/portofolio/static/media/amikom.cca33bbd.png",
+    "static/media/borobudur.jpg": "/portofolio/static/media/borobudur.86c1bb7d.jpg",
+    "static/media/ccna.jpg": "/portofolio/static/media/ccna.897991ab.jpg",
+    "static/media/contactMailDark.svg": "/portofolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/portofolio/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/portofolio/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/googleAssistant.svg": "/portofolio/static/media/googleAssistant.c24ba791.svg",
+    "static/media/jsFramework.svg": "/portofolio/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/manOnTable.svg": "/portofolio/static/media/manOnTable.52be3144.svg",
+    "static/media/pmiapp.jpg": "/portofolio/static/media/pmiapp.449eec1d.jpg",
+    "static/media/programmer.svg": "/portofolio/static/media/programmer.c1a95f73.svg",
+    "static/media/skill.svg": "/portofolio/static/media/skill.34409398.svg",
+    "static/media/talksCardBack.svg": "/portofolio/static/media/talksCardBack.13780cdd.svg",
+    "static/media/talksCardBackAlt.svg": "/portofolio/static/media/talksCardBackAlt.b48e86c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45e46e2f.js",
+    "static/js/2.10facdb1.chunk.js",
+    "static/css/main.59bb87f6.chunk.css",
+    "static/js/main.55e54974.chunk.js"
+  ]
+}
