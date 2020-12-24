@@ -1,0 +1,3 @@
+[submodule "myProfile"]
+	path = myProfile
+	url = https://github.com/eyeshiledd/myProfile

@@ -1,0 +1,56 @@
+.startup-projects-main {
+  display: flex;
+}
+.img {
+  width: 380px;
+  height: 380px;
+}
+
+.startup-projects-main > * {
+  flex: 1;
+  margin-bottom: 30px;
+}
+
+.starup-project-image > img {
+  max-width: 100%;
+  height: auto;
+}
+
+.project-card-head {
+  color: rgb(36, 41, 46);
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin: 0px;
+  font-family: "Cascadia Code";
+}
+
+.startup-project-text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-card-description {
+  color: rgb(88, 96, 105);
+  font-family: "Cascadia Code";
+}
+.subTitle {
+  color: #868e96;
+  font-family: "Cascadia Code";
+}
+
+.saaya-health-div,
+.nextu-div {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .starup-project-image {
+    display: none;
+  }
+  .project-subtitle {
+    font-size: 16px;
+    text-align: center;
+    font-family: "Cascadia Code";
+  }
+}
